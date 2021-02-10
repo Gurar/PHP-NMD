@@ -1,11 +1,11 @@
 <?php
 // 1.
 
-// $name = 'Vardenis';
-// $lastname = 'Pavardenis';
+// $name = 'Jezy';
+// $lastname = 'Kozlovski';
 // $yearOfBirth = 1990;
 // $currentYear = 2021;
-// echo "As esu $name $lastname ". ($currentYear - $yearOfBirth);
+// echo "As esu $name $lastname  Man yra ". ($currentYear - $yearOfBirth) ." metų";
 // echo "<br>";
 
 // 2.
